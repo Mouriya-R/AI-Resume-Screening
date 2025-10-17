@@ -1,2 +1,1 @@
-# AI-Resume-Screening
-AI-powered system to automatically screen resumes using NLP and ML.
+# AI-Powered Resume Screening System
